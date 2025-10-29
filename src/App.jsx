@@ -7,6 +7,9 @@ import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import { Home } from './pages/Home'
 import { NotFound } from './pages/NotFound'
 import "./index.css" 
+import { HeroSection } from './components/Herosection'
+import { AboutSection } from './components/AboutSection'
+
 
 function App() {
   return (
