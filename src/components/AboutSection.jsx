@@ -5,26 +5,25 @@ export const AboutSection = () => {
         {""}
         <div className="container mx-auto max-x-5xl">
             <h2 className="text-3xl md:text-4xl font-bold mb-12 text-center">
-                About <span className="text-primary">Me</span>
+                About <span className="text-primary">US</span>
             </h2>
 
             <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
                 <div className="space-y-6">
                     <h3 className="text-2xl font-semibold">
-                        Passionate Web Developer & Tech Creator
+                        Passionate Junoir Web Developer
                     </h3>
 
                     <p className="text-muted-foreground">
-                        With over 5 years of experience in web development, I specialize
-                        in creating responsive, accesible, and preformant web 
-                        appications using modern technologies.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
                     </p>
 
                     <p className="text-muted-foreground">
-                        I'm passionate about creating elegant solutions to complex
-                        problem, and I'm constanly learning new technologies 
-                        and technigues to stay at the forefront of the ever-evolving web 
-                        landscape.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor 
+                        incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud 
+                        exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
                     </p>
 
                     <div className="flex flex-col sm:flex-row gap-4 pt-4 justify-center">

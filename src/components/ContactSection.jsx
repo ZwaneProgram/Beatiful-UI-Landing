@@ -3,7 +3,6 @@ import {cn} from '@/lib/utils';
 import { useToast } from "@/hooks/use-toast";
 import { useState } from "react";
 
-
 export const ContactSection = () => {
 
     const { toast } = useToast();
@@ -50,7 +49,7 @@ export const ContactSection = () => {
                         <div> 
                             <h4 className="font-medium"> Email</h4>
                             <a href="mailto:haru91251@gmail.com" className="text-muted-foreground hover:text-primary transition-colors">
-                                haru91251@gmail.com
+                                skibidilnw007@gmail.com
                             </a>
                         </div>
                     </div>
@@ -62,7 +61,7 @@ export const ContactSection = () => {
                         <div> 
                             <h4 className="font-medium"> Phone</h4>
                             <a href="telto:+669436051" className="text-muted-foreground hover:text-primary transition-colors">
-                                +66 94-643-6051
+                                +66 911
                             </a>
                         </div>
                     </div>
@@ -115,7 +114,7 @@ export const ContactSection = () => {
                         name="name" 
                         required
                         className="w-full px-4 py-3 rounded-md border-input bg-background focucus:outlind-hidden focus:ring-2 focus:ring-primary"
-                        placeholder="Haru yuki..."
+                        placeholder="Jonathan jojo..."
                          />
                     </div>
 
@@ -131,7 +130,7 @@ export const ContactSection = () => {
                         name="email" 
                         required
                         className="w-full px-4 py-3 rounded-md border-input bg-background focucus:outlind-hidden focus:ring-2 focus:ring-primary"
-                        placeholder="haru91251@gmail.com"
+                        placeholder="skibidilnw007@gmail.com"
                          />
                     </div>
 
