@@ -9,9 +9,6 @@ import { NotFound } from './pages/NotFound'
 import "./index.css" 
 import { Toaster } from '@/components/ui/Toaster'
 
-
-
-
 function App() {
   return (
     <>
